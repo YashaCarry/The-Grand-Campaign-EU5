@@ -2,10 +2,7 @@ The Grand Campaign is a total conversion mod for Europa Universalis V that seeks
 
 Some teasers of our map:
 
-Europe:
 <img width="763" height="661" alt="image" src="https://github.com/user-attachments/assets/255646c3-214d-4709-b44d-308924d7af44" />
-
-North America:
 <img width="658" height="523" alt="image" src="https://github.com/user-attachments/assets/c765dba9-ce68-445f-a064-8f4a0c282668" />
 
 Interested? The [Discord server](https://discord.gg/DmuJcP3hrv) is the home for this mod where you can talk with the community, make suggestions, and even contribute to the mod!
