@@ -21,7 +21,7 @@ SAR = {
 	unit_color1 = hsv360 {	230 64 36 }
 	unit_color2 = hsv360 {	37 84 89 }
 
-	culture_definition = piedmontese
+	culture_definition = sardinian
 	religion_definition = catholic
 
 	description_category = administrative
@@ -159,4 +159,13 @@ MCR	= { #Duchy of Massa and Principality of Carrara
 
 	culture_definition = tuscan
 	religion_definition = catholic
+}
+
+PIE	= { #Piedmont
+	color = rgb { 1 255 177 }
+
+	culture_definition = piedmontese
+	religion_definition = catholic
+
+
 }

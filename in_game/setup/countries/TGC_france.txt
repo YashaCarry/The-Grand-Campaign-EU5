@@ -73,3 +73,12 @@ ALS = {
 	culture_definition = rhine_alemannic
 	religion_definition = catholic
 }
+
+# Nice
+NIZ = {
+	color = rgb { 206 99 142 }
+	color2 = rgb { 255 170 170 }
+
+	culture_definition = provencal
+	religion_definition = catholic
+}

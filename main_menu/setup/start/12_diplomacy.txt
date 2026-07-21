@@ -34,4 +34,11 @@ diplomacy_manager = {
     # Austria
         dependency = { first = HAB second = KRA subject_type = vassal }
 
+    # Sardinia-Piedmont
+	dependency = { first = SAR second = PIE subject_type = vassal }
+	dependency = { first = SAR second = SAV subject_type = vassal }
+	dependency = { first = SAR second = GEN subject_type = vassal }
+	dependency = { first = SAR second = NIZ subject_type = vassal }
+
+
 }

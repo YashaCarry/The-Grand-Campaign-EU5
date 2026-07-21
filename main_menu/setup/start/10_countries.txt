@@ -10074,7 +10074,7 @@ countries = {
 
          
       }
-      SRP = {
+      PIE = {
          include = "expl_whole_world"
          
          capital = turin
@@ -10082,14 +10082,14 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            lepontine_alps1 cottian_alps2 ligurian_alps cottian_alps3 graian_alps1 graian_alps2 pennine_alps1 gennargentu_mountains chambery saint_jean_de_maurienne
-            moutiers evian cagliari tratalias villa_di_chiesa isili muravera seddori tortoli orosei
-            terranova_pausania posada tempiopausania pragelato cuneo nice puget_theniers sassari ales oristano
-            sorgono terralba bosa macomer bitti ozieri alghero thiesi castelsardo albenga
-            ventimiglia genoa lavagna sarzana savona annecy la_roche_sur_foron faucigny sallanches aosta
-            chatillonaos morgex pinerolo susa turin lanzo casale acqui novara vercelli
-            arona biella varallo domodossola ivrea asti chieri carmagnola saluzzo alessandria
-            lomello voghera alba mondovi ceva cairo_montenotte finalborgo novi tortona rovegno
+            alessandria novi rovegno tortona 
+	    aosta chatillonaos morgex 
+            mondovi alba ceva ligurian_alps 
+            casale acqui asti
+            novara arona biella domodossola varallo vercelli lepontine_alps1 lake_maggiore 
+            turin ivrea lanzo pinerolo susa graian_alps2 pragelato cottian_alps3 
+            saluzzo carmagnola chieri cuneo cottian_alps2 
+            lomello voghera
          }
 
          
@@ -10099,6 +10099,118 @@ countries = {
 
          
       }
+
+      SAR = {
+         include = "expl_whole_world"
+         capital = cagliari
+         country_rank = rank_county
+         starting_technology_level = 3
+
+         own_control_core = {
+            oristano ales sorgono terralba 
+	    cagliari tratalias villa_di_chiesa isili muravera seddori tortoli gennargentu_mountains
+            terranova_pausania orosei posada tempiopausania
+	    sassari alghero bosa castelsardo macomer bitti ozieri thiesi 
+         }
+
+         include = "expl_mediterranean"
+         include = "catholic_monarchy_no_coast"
+
+         tolerated_cultures = {
+            piedmontese
+         }
+
+         government = {
+            type = monarchy
+            ruler = srp_charles_albert
+            heir_selection = cognatic_primogeniture
+
+            ruler_term  = { character = srp_charles_albert start_date = 1831.4.27 end_date = 1.1.1 regnal_number = 1 }
+
+          }
+      }
+
+      SAV = {
+         include = "expl_whole_world"
+         capital = chambery
+         country_rank = rank_county
+         starting_technology_level = 3
+
+         own_control_core = {
+            chambery annecy evian faucigny la_roche_sur_foron moutiers saint_jean_de_maurienne sallanches graian_alps1 pennine_alps1 
+         }
+
+         include = "expl_mediterranean"
+         include = "catholic_monarchy_no_coast"
+
+         tolerated_cultures = {
+            piedmontese
+         }
+
+         government = {
+            type = monarchy
+            ruler = srp_charles_albert
+            heir_selection = cognatic_primogeniture
+
+            ruler_term  = { character = srp_charles_albert start_date = 1831.4.27 end_date = 1.1.1 regnal_number = 1 }
+
+          }
+      }
+
+      GEN = {
+         include = "expl_whole_world"
+         capital = genoa
+         country_rank = rank_county
+         starting_technology_level = 3
+
+         own_control_core = {
+            genoa lavagna sarzana albenga cairo_montenotte finalborgo savona ventimiglia 
+         }
+
+         include = "expl_mediterranean"
+         include = "catholic_monarchy_no_coast"
+
+         tolerated_cultures = {
+            piedmontese
+         }
+
+         government = {
+            type = monarchy
+            ruler = srp_charles_albert
+            heir_selection = cognatic_primogeniture
+
+            ruler_term  = { character = srp_charles_albert start_date = 1831.4.27 end_date = 1.1.1 regnal_number = 1 }
+
+          }
+      }
+
+      NIZ = {
+         include = "expl_whole_world"
+         capital = nice
+         country_rank = rank_county
+         starting_technology_level = 3
+
+         own_control_core = {
+            nice puget_theniers 
+         }
+
+         include = "expl_mediterranean"
+         include = "catholic_monarchy_no_coast"
+
+         tolerated_cultures = {
+            piedmontese
+         }
+
+         government = {
+            type = monarchy
+            ruler = srp_charles_albert
+            heir_selection = cognatic_primogeniture
+
+            ruler_term  = { character = srp_charles_albert start_date = 1831.4.27 end_date = 1.1.1 regnal_number = 1 }
+
+          }
+      }
+
       SRS = {
          include = "expl_whole_world"
          
