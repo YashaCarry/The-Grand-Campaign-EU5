@@ -40,5 +40,7 @@ diplomacy_manager = {
 	dependency = { first = SAR second = GEN subject_type = vassal }
 	dependency = { first = SAR second = NIZ subject_type = vassal }
 
+    # Italy
+        dependency = { first = MOD second = MCR subject_type = vassal }
 
 }

@@ -574,10 +574,10 @@
 			}
 			tirol_area = {
 				south_tirol_province = {
-					bolzano brixen bruneck cavalese merano silandro sterzing villandro dolomite_alps1 dolomite_alps4 rhaetian_alps7 otztal_alps1 venediger_group
+					bolzano brixen bruneck cavalese merano silandro sterzing villandro dolomite_alps1 dolomite_alps4 rhaetian_alps7 otztal_alps1 venediger_group dolomite_alps2
 				}
 				trentino_province = {
-					trento cles riva rovereto rhaetian_alps8
+					trento cles riva rovereto rhaetian_alps8 dolomite_alps5
 				}
 				unterinntal_province = {
 					schwaz innsbruck zell_am_ziller kufstein kitzbuhel
@@ -1253,14 +1253,14 @@
 			}
 			tuscany_area = {
 				arezzo_province = { arezzo cortona sansepolcro }
-				florence_province = { florence mangona poggibonsi prato sanlorenzo pistoia modigliana }
+				florence_province = { florence mangona poggibonsi prato sanlorenzo pistoia modigliana pescia }
 				grosseto_province = { grosseto massamar pitigliano piombino}
-				lucca_province = { lucca pescia massa fosdinovo montignoso }
+				lucca_province = { lucca massa fosdinovo montignoso }
 				pisa_province = { pisa livorno pontedera volterra }
 				siena_province = { siena chiusi montalcino }
 			}
 			veneto_area = {
-				belluno_province = { belluno pieve feltre dolomite_alps2 dolomite_alps5 dolomite_alps6 dolomite_alps7 }
+				belluno_province = { belluno pieve feltre dolomite_alps6 dolomite_alps7 }
 				friuli_province = { aquileia cividale gemona tolmezzo pordenone spilimbergo udine }
 				padua_province = { padova este monselice rovigo }
 				venice_province = { venice mestre treviso castelfranco ceneda chioggia conegliano }
