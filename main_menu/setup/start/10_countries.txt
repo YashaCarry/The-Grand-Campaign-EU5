@@ -11577,7 +11577,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            parma berceto sandonnino piacenza bardi fiorenzuola bobbio guastalla
+            parma berceto sandonnino piacenza bardi fiorenzuola guastalla
          }
 
          include = "expl_mediterranean"
@@ -14502,7 +14502,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            alessandria novi rovegno tortona 
+            alessandria novi rovegno tortona bobbio
 	    aosta chatillonaos morgex 
             mondovi alba ceva ligurian_alps 
             casale acqui asti

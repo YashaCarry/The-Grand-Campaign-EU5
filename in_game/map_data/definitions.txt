@@ -1190,7 +1190,7 @@
 			emilia_area = {
 				modena_province = { modena frassinoro nonantola mirandola }
 				parma_province = { parma berceto sandonnino }
-				piacenza_province = { piacenza bardi bobbio fiorenzuola }
+				piacenza_province = { piacenza bardi fiorenzuola }
 				reggioem_province = { reggioem canossa novellara guastalla }
 				lunigiana_province = {
 					north_apennines barga gallicano castiglione minucchiano bagnone calice_e_albiano pontremoli treschietto rochetta_di_vara villafranca_lugiana arpiola_pianfurcano coloretta castelnuovo_di_garfagnana ficarolo
@@ -1230,7 +1230,7 @@
 				urbino_province = { urbino gubbio pesaro }
 			}
 			piemonte_area = {
-				alessandria_province = { alessandria novi rovegno tortona }
+				alessandria_province = { alessandria novi rovegno tortona bobbio }
 				aosta_province = { aosta chatillonaos morgex }
 				mondovi_province = { mondovi alba ceva ligurian_alps }
 				monferrato_province = { casale acqui asti }
